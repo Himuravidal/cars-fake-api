@@ -1,16 +1,148 @@
 {
-  "posts":[
+  "cars": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "Suzuki Swift 1.2 GL",
+      "image": "https://user-images.githubusercontent.com/22780253/166070833-ce02ed1b-13ac-4ad7-aa66-b1a7ed45ba9f.jpeg",
+      "monthlyPrice": "360.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: Abr-22",
+      "availableForRent": true,
+      "KilometersByYear": 10000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.200 cc Bencina",
+        "transmition": "Transmisión mecánica",
+        "entertainment": "Radio pantalla touch",
+        "security": "Doble airbag · ABS"
+      }
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "name": "Chery Tiggo 2 GLS CVT",
+      "image": "https://user-images.githubusercontent.com/22780253/166071790-1e9ba078-c73d-4293-b054-044dbb207b89.jpeg",
+      "monthlyPrice": "390.000",
+      "carType": "SUV",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: May-22",
+      "availableForRent": true,
+      "KilometersByYear": 10000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.500 cc Bencina",
+        "transmition": "Transmisión automática",
+        "entertainment": "Pantalla touch 8″ Android",
+        "security": "Doble airbag · ABS"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chery Tiggo 3 GLS MT",
+      "image": "https://user-images.githubusercontent.com/22780253/166072623-0660ad01-eb47-4cde-ac2c-6f0f5f721b6e.jpeg",
+      "monthlyPrice": "400.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: Jul-22",
+      "availableForRent": true,
+      "KilometersByYear": 10000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.500 cc Bencina",
+        "transmition": "Transmisión mecánica",
+        "entertainment": "Pantalla touch 9″ Car Play",
+        "security": "Doble airbag · ABS + EBD"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Volkswagen T-Cross TSI Trendline MT",
+      "image": "https://user-images.githubusercontent.com/22780253/166072670-96c3a29f-0145-406a-9a55-02e5e3c63bdd.jpeg",
+      "monthlyPrice": "420.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: May-22",
+      "availableForRent": true,
+      "KilometersByYear": 10000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.500 cc Bencina",
+        "transmition": "Transmisión mecánica",
+        "entertainment": "Pantalla touch 6,5″ App Connect",
+        "security": " 6 airbags · ABS + ESC"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Volkswagen T-Cross TSI Comfortline AT",
+      "image": "https://user-images.githubusercontent.com/22780253/166072714-ee058011-c07a-4fc6-b417-3dc5e8348d77.jpeg",
+      "monthlyPrice": "450.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: Nov-22",
+      "availableForRent": true,
+      "KilometersByYear": 10000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.000 cc Turbo Bencina",
+        "transmition": "Transmisión automática",
+        "entertainment": "Pantalla touch 10″ VW Play",
+        "security": "6 airbags · ABS + ESC"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Chery Tiggo 7 Pro GLX CVT",
+      "image": "https://user-images.githubusercontent.com/22780253/166072772-9d6021fb-eb7b-4aed-ae9d-f83e930423ce.jpeg",
+      "monthlyPrice": "550.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: Ene-23",
+      "availableForRent": true,
+      "KilometersByYear": 10000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.500 cc Turbo Bencina",
+        "transmition": "Transmisión automática",
+        "entertainment": "Pantalla touch 10″ Car Play",
+        "security": "6 airbags · ABS + ESC"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Chery Tiggo 8 GLX DCT",
+      "image": "https://user-images.githubusercontent.com/22780253/166072862-3951fc17-23f5-4819-bba8-22c5a5065232.jpeg",
+      "monthlyPrice": "550.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: Jun-22",
+      "availableForRent": true,
+      "KilometersByYear": 11000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.500 cc Turbo Bencina",
+        "transmition": "Transmisión automática",
+        "entertainment": "Pantalla touch 10″ Car Play",
+        "security": "6 airbags · ABS + EBD"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Volkswagen Taos TSI Comfortline AT",
+      "image": "https://user-images.githubusercontent.com/22780253/166072902-96d34771-ed85-403c-82ad-7d6ee7d0cfb7.jpeg",
+      "monthlyPrice": "550.000",
+      "carType": "CityCar",
+      "buildYear": 2022,
+      "description": "Próxima Entrega: May-22",
+      "availableForRent": true,
+      "KilometersByYear": 12000,
+      "AdditionalKilometersPrice": "110 + IVA",
+      "attributes": {
+        "engine": "Motor 1.400 cc Turbo Bencina",
+        "transmition": "Transmisión automática",
+        "entertainment": "Pantalla touch 10″ VW Play",
+        "security": "6 airbags · ABS + EBD"
+      }
     }
   ]
 }
